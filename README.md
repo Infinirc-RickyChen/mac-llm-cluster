@@ -3,6 +3,9 @@
 
 nano .zshrc
 
-export HF_HOME="/Users/rickychen/Music/models"
+export HUGGINGFACE_HUB_CACHE="/Volumes/models/llm-models"
+
+
+export EXO_HOME="/Volumes/models/llm-models"
 
 source ~/.zshrc
