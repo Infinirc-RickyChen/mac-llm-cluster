@@ -1,7 +1,7 @@
 # mac-llm-cluster
 
 
-nano .zshrc
+sudo nano .zshrc
 
 export HUGGINGFACE_HUB_CACHE="/Volumes/models/llm-models"
 
